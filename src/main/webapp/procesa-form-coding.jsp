@@ -9,8 +9,8 @@
 </head>
 <body>
 	<div class="container">
-	<div class="card" style="width: 18rem;">
-	  <img src="https://static.wikia.nocookie.net/transformerscinematicuniverse6050/images/e/e9/Optimus_Prime.png" 
+	<div class="card mt-4" style="width: 18rem;">
+	  <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/04/optimus-prime-transformers-1911133.jpg?tf=1200x" 
 	  		style="width=100%; height=180px" class="card-img-top" alt="...">
 	  <div class="card-body">
 	    <h5 class="card-title">${param.nombre} ${param.apellido}</h5>
